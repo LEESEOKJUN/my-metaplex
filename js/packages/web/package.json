@@ -76,9 +76,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/metaplex-foundation/metaplex"
+    "url": "https://github.com/LEESEOKJUN/my-metaplex/"
   },
-  "homepage": ".",
+  "homepage": "https://LEESEOKJUN.github.com/my-metaplex/",
   "devDependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
